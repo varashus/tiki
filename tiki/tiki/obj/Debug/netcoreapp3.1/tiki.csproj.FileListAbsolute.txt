@@ -1,0 +1,15 @@
+C:\Users\Kecsu\source\repos\tiki\tiki\obj\Debug\netcoreapp3.1\tiki.csproj.GenerateResource.cache
+C:\Users\Kecsu\source\repos\tiki\tiki\obj\Debug\netcoreapp3.1\tiki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kecsu\source\repos\tiki\tiki\obj\Debug\netcoreapp3.1\tiki.AssemblyInfoInputs.cache
+C:\Users\Kecsu\source\repos\tiki\tiki\obj\Debug\netcoreapp3.1\tiki.AssemblyInfo.cs
+C:\Users\Kecsu\source\repos\tiki\tiki\obj\Debug\netcoreapp3.1\tiki.csproj.CoreCompileInputs.cache
+C:\Users\Kecsu\source\repos\tiki\tiki\bin\Debug\netcoreapp3.1\tiki.exe
+C:\Users\Kecsu\source\repos\tiki\tiki\bin\Debug\netcoreapp3.1\tiki.deps.json
+C:\Users\Kecsu\source\repos\tiki\tiki\bin\Debug\netcoreapp3.1\tiki.runtimeconfig.json
+C:\Users\Kecsu\source\repos\tiki\tiki\bin\Debug\netcoreapp3.1\tiki.runtimeconfig.dev.json
+C:\Users\Kecsu\source\repos\tiki\tiki\bin\Debug\netcoreapp3.1\tiki.dll
+C:\Users\Kecsu\source\repos\tiki\tiki\bin\Debug\netcoreapp3.1\tiki.pdb
+C:\Users\Kecsu\source\repos\tiki\tiki\obj\Debug\netcoreapp3.1\tiki.dll
+C:\Users\Kecsu\source\repos\tiki\tiki\obj\Debug\netcoreapp3.1\tiki.pdb
+C:\Users\Kecsu\source\repos\tiki\tiki\obj\Debug\netcoreapp3.1\tiki.genruntimeconfig.cache
+C:\Users\Kecsu\source\repos\tiki\tiki\obj\Debug\netcoreapp3.1\tiki.Form1.resources
